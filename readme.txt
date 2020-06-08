@@ -1,2 +1,2 @@
-# My new flutter tutorial
-# Buildig a ui
+# My new flutter App
+# Building a ui
